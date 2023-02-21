@@ -2,7 +2,7 @@
 
 Perkenalkan nama saya **Zulfian Rahmadiansyah**.
 
-Saya seorang **mahasiswa sarjana Teknik Fisika* di Universitas Gadjah Mada.
+Saya seorang **mahasiswa sarjana Teknik Fisika** di Universitas Gadjah Mada.
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [LinkedIn](https://www.linkedin.com/in/zulfianrahmadiansyah/)ku ya.
 <!--
