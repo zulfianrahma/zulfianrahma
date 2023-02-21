@@ -1,5 +1,10 @@
-### Hi there 👋
+# Halo semua 👋
 
+Perkenalkan nama saya **Zulfian Rahmadiansyah**.\
+
+Saya seorang **mahasiswa sarjana Teknik Fisika* di Universitas Gadjah Mada.\
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [LinkedIn](https://www.linkedin.com/in/zulfianrahmadiansyah/)ku ya.
 <!--
 **zulfianrahma/zulfianrahma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
